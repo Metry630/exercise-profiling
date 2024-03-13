@@ -1,32 +1,32 @@
 The three images below are the test overviews for all student, all student name, and highest GPA from Jmeter GUI:
 
-![Screen Shot 2024-03-13 at 16.18.52.png](/images/Screen Shot 2024-03-13 at 16.18.52.png)
+![](images/img1.png)
 
-![Screen Shot 2024-03-13 at 16.32.17.png](/images/Screen Shot 2024-03-13 at 16.32.17.png)
+![](images/img2.png)
 
-![Screen Shot 2024-03-13 at 16.36.20.png](/images/Screen Shot 2024-03-13 at 16.36.20.png)
+![](images/img3.png)
 
 The three images below are the test overviews for all student, all student name, and highest GPA from Jmeter CLI:
 
-![Screen Shot 2024-03-13 at 18.30.46.png](/images/Screen Shot 2024-03-13 at 18.30.46.png)
+![](images/img4.png)
 
-![Screen Shot 2024-03-13 at 18.31.29.png](/images/Screen Shot 2024-03-13 at 18.31.29.png)
+![](images/img5.png)
 
-![Screen Shot 2024-03-13 at 18.32.15.png](/images/Screen Shot 2024-03-13 at 18.32.15.png)
+![](images/img6.png)
 
 These are the original times, before optimization:
-![Screen Shot 2024-03-13 at 20.04.16.png](/images/Screen Shot 2024-03-13 at 20.04.16.png)
+![](images/img7.png)
 
-![Screen Shot 2024-03-13 at 20.05.38.png](/images/Screen Shot 2024-03-13 at 20.05.38.png)
+![](images/img8.png)
 
-![Screen Shot 2024-03-13 at 20.06.29.png](/images/Screen Shot 2024-03-13 at 20.06.29.png)
+![](images/img9.png)
 
 These are the times after after optimizing:
-![Screen Shot 2024-03-13 at 20.11.04.png](/images/Screen Shot 2024-03-13 at 20.11.04.png)
+![](images/img10.png)
 
-![Screen Shot 2024-03-13 at 20.12.06.png](/images/Screen Shot 2024-03-13 at 20.12.06.png)
+![](images/img11.png)
 
-![Screen Shot 2024-03-13 at 20.12.36.png](/images/Screen Shot 2024-03-13 at 20.12.36.png)
+![](images/img12.png)
 
 1. The difference between JMeter and IntelliJ Profiler:
 
